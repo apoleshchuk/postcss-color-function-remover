@@ -1,0 +1,12 @@
+{
+  "name": "postcss-color-function-remover",
+  "version": "0.0.0",
+  "description": "Simple color function remover",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Anton Poleshchuk <anton@poleshchuk.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "postcss": "^6.0.16"
+  }
+}
