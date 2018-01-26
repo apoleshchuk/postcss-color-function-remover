@@ -1,6 +1,6 @@
 {
   "name": "postcss-color-function-remover",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Simple color function remover",
   "main": "index.js",
   "scripts": {},
